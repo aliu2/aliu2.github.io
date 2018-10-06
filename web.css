@@ -1,7 +1,4 @@
-/*	DUSTY: #96858F;
-	LAVENDER: #6D7993;
-	OVERCAST: #9099A2;
-	PAPER: D5D5D5; */
+/*	#96858F;#6D7993;#9099A2;#D5D5D5; */
 
 body p {
 	font-family: 'Open Sans', sans-serif;
@@ -33,7 +30,6 @@ body p {
 
 .jumbotron {
 	background: #ecf0f1;
-	/*background: #CBC5EA;*/
 	margin-top: 55px;
 	margin-left: auto;
 	margin-right: auto;
@@ -50,8 +46,8 @@ body p {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	height: 200px;
-	width: 200px;
+	height: 250px;
+	width: 250px;
 }
 
 #aboutMe{
@@ -88,6 +84,7 @@ body p {
 
 .footer {
 	background: #ecf0f1;
+	margin-top: 25px;
 }
 
 .footer p {
@@ -111,11 +108,3 @@ a {
 a:hover {
 	color: #96858F;
 }
-
-/*.row i {
-	font-size: 200px;
-	color: #6D7993;
-	text-align: center;
-	text-shadow: 0px 4px 13px rgba(0,0,0,0.3),
-				 0px 8px 13px rgba(0,0,0,0.1),
-				 0px 18px 23px rgba(0,0,0,0.1);*/
